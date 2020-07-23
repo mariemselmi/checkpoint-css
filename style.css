@@ -1,0 +1,126 @@
+
+.top {
+    display: flex; 
+}
+h1 {
+    font-family: arimo;
+    font-size: 1cm;
+    color: red;
+ 
+}
+.logo {
+    position: relative;
+    height:3cm;
+    width:6.8cm;
+    margin-top: .8cm;
+    margin-left:4cm ;
+
+
+}
+
+.nav {
+    display: inline-block;
+    font-family: "Source Sans Pro";
+    line-height: 5em;
+    font-size: 26px;
+    position: relative;
+    margin-left: 10cm;
+    margin-top: 0;
+
+}
+.subtitles, .business-sub {
+    color: red;
+}
+    
+.text,.form, .business-sub{
+    font-family: "Barlow Condensed";
+    font-size: 1.8em;
+    margin-left: 5cm;
+    margin-right: 3.3cm;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+.founders {
+    display: flex;
+}
+.founders-img {
+    width: 50%;
+    margin-left: 2em;
+}
+.founders-p, .business-p {
+    font-family: "bebas neue";
+    font-weight: lighter;
+    font-size: 28px;
+    word-spacing: 9px;
+    margin-right: 30px;
+    margin-left: 20px;
+    color: royalblue;
+
+}
+
+
+.video_title {
+    font-family: righteous;
+    font-size: 24px;
+    margin-left: 7cm;
+    margin-right: 4cm;
+
+}
+.video {
+    margin-bottom: 0;
+    margin-left:8cm;
+}
+#create {
+    margin-top: 1cm;
+    font-size: 40px;
+}
+label {
+    font-size: 1em;
+}
+#input {
+    padding: 1.5em;
+    width: 5cm;
+}
+.form {
+    display: flex;
+
+}
+th {
+    color: red;
+}
+
+.business {
+    display: flex;
+}
+.google {
+    height: 400px ;
+}
+.space {
+    height: 100px;
+    background-color: white;
+}
+.footer {
+    border: red;
+    border-style: dotted;
+    position: relative;
+    height: 150px;
+    clear: both;
+}
+.click {
+    font-family: "pacifico";
+    position: absolute;
+    word-spacing: 10px;
+    top: 90px;
+    left: 450px;
+    color: red;
+    font-size: 27px;
+   
+}
+.svgs {
+    margin-left: 340px;
+}
+.svg {
+    margin-left: 100px;
+    margin-top: 30px;
+}
